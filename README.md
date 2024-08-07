@@ -12,7 +12,7 @@ This project was built following a specification handed out on 08 July 2024 for 
 * Search for videos based on different criteria
 
 ### Visual Helper
-*** Space for a diagram ***
+[Diagram for this project](CP-1856-Project-diagram.png)
 
 ### Installation Instructions
 *** Space for installation instructions ***
