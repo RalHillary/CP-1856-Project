@@ -14,5 +14,13 @@ This project was built following a specification handed out on 08 July 2024 for 
 ### Visual Helper
 [Diagram for this project](CP-1856-Project-diagram.png)
 
-### Installation Instructions
-*** Space for installation instructions ***
+### How to Run the Project
+#### Prerequistes:
+Spyder(Python 3.11) installed on your system.
+System Requirements:  Windows, MacOS
+#### Running the Application:
+Run the python video_library_management.py code in Spyder(Python 3.11) 
+#### Using the Application:
+Follow the on-screen prompts to add, edit, delete, display, and search for videos.
+Choose the appropriate option from the menu by entering the corresponding number.
+
